@@ -115,6 +115,46 @@ packages:
       url: "https://pub.dev"
     source: hosted
     version: "1.8.3"
+  plugin_platform_interface:
+    dependency: transitive
+    description:
+      name: plugin_platform_interface
+      sha256: f4f88d4a900933e7267e2b353594774fc0d07fb072b47eedcd5b54e1ea3269f8
+      url: "https://pub.dev"
+    source: hosted
+    version: "2.1.7"
+  quick_actions:
+    dependency: "direct main"
+    description:
+      name: quick_actions
+      sha256: "3930e1cf78a0574495b4ea741ee197323c4a9081321d6ae384b3bfcd84c7ea83"
+      url: "https://pub.dev"
+    source: hosted
+    version: "1.0.6"
+  quick_actions_android:
+    dependency: transitive
+    description:
+      name: quick_actions_android
+      sha256: df67c20583e05f5038a24c47bfa1b7b2977703ec2d162663017c5f9ef8707699
+      url: "https://pub.dev"
+    source: hosted
+    version: "1.0.9"
+  quick_actions_ios:
+    dependency: transitive
+    description:
+      name: quick_actions_ios
+      sha256: "5a13ed27b6254184fdd4294e100e3172fa6ebfd8bea03e414634a0f760d49997"
+      url: "https://pub.dev"
+    source: hosted
+    version: "1.0.8"
+  quick_actions_platform_interface:
+    dependency: transitive
+    description:
+      name: quick_actions_platform_interface
+      sha256: d2a8566b56eec49f93934528b62033906199c60f4ffaef0cba9ef02fcfed8a81
+      url: "https://pub.dev"
+    source: hosted
+    version: "1.0.5"
   sky_engine:
     dependency: transitive
     description: flutter
@@ -186,3 +226,4 @@ packages:
     version: "0.1.4-beta"
 sdks:
   dart: ">=3.1.2 <4.0.0"
+  flutter: ">=3.7.0"
